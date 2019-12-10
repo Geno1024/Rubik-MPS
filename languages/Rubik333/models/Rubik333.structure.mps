@@ -6,6 +6,7 @@
     <devkit ref="78434eb8-b0e5-444b-850d-e7c4ad2da9ab(jetbrains.mps.devkit.aspect.structure)" />
   </languages>
   <imports>
+    <import index="rdva" ref="r:ef7fd1a1-17d4-4c97-8590-876d94b7e7ad(Rubik.structure)" />
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
@@ -50,7 +51,7 @@
     <property role="EcuMT" value="517177826128841498" />
     <property role="TrG5h" value="Rubik333" />
     <property role="19KtqR" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <ref role="1TJDcQ" to="rdva:41UiX7OOenn" resolve="Rubik" />
     <node concept="1TJgyj" id="3EIMH273ruS" role="1TKVEi">
       <property role="IQ2ns" value="4228540097115305912" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />

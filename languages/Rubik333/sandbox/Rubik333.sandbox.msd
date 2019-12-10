@@ -10,6 +10,7 @@
   </facets>
   <sourcePath />
   <languageVersions>
+    <language slang="l:d83b7433-1b0c-4b41-b7e7-b479d38077c4:Rubik" version="0" />
     <language slang="l:bdea259e-4526-4670-831a-69c381fa650b:Rubik333" version="0" />
     <language slang="l:ceab5195-25ea-4f22-9b92-103b95ca8c0c:jetbrains.mps.lang.core" version="2" />
   </languageVersions>
